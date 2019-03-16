@@ -29,7 +29,7 @@ CPU gets MSB 5 bits of all instructions without any checking based on the conven
 
 ### How the control unit works
 
-Control unit converts LSB 6 bits of the instruction that takes over from register file into 3 bits(see the section 'How the register file works' below). These 3 bits forms selection signals of ALU.
+Control unit converts LSB 6 bits of the instruction that are taken over from register file into 3 bits(see the section 'How the register file works' below). These 3 bits forms selection signals of ALU.
 
 Control unit is shown in below.
 
