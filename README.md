@@ -47,7 +47,7 @@ SS2 = (F1 and (not (F5 and F0)))
 
 Register file takes three 5-bits patterns to rs, rt and rd ports and reads their content from the file called registers.mem. It then redirects their content to its output ports. It also writes data that comes to it as a result, to rd register. 
 
-Register file is hown in Figure 4.
+Register file is shown in Figure 4.
 
 ![image](https://user-images.githubusercontent.com/23126077/54474564-6ba54c00-47f7-11e9-9c22-9d3fc8305bed.png)
 
