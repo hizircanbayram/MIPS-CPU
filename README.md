@@ -88,7 +88,7 @@ Test cases are shown in below.
 ![image](https://user-images.githubusercontent.com/23126077/54474846-15d2a300-47fb-11e9-92de-0e30626524c0.png)
 
 
-All the implemented instructions are tested and outputted above. The file registers.mem is also updated after every instructions. 
+All the implemented instructions are tested and outputted above. The file registers.mem is also updated after every instruction. 
 
 
 
